@@ -1,0 +1,20 @@
+[Example 1]
+Question: what is the output of print(bool([]))?
+Gold Answer: False
+Student: false
+Result: correct
+Reason: Matches gold (case-insensitive)
+
+[Example 2]
+Question: what does len(set("mississippi")) return
+Gold Answer: 4
+Student: 3
+Result: incorrect
+Reason: unique letters = m,i,s,p. total 4
+
+[Example 3]
+Question: what will print(type({})) output?
+Gold Answer: <class 'dict'>
+Student: dictionary
+Result: correct
+Reason: equivalent wording accepted.

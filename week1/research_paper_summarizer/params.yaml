@@ -1,0 +1,13 @@
+config:
+    use_llm: openai
+    use_model: gpt-4o-mini
+    max_tokens: 2000
+    overlap_tokens: 200
+    headers:
+        User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+    max_arxiv_results: 3
+    paper_sort_strategy: relevance # relevance | lastUpdatedDate | submittedDate
+
+prompt:
+    tone: technical # formal | casual | technical
+    audience: technical # technical | general | executive | student etc.

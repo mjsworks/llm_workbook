@@ -1,0 +1,31 @@
+[Example 1]
+Topic: Lists | Difficulty: Easy
+Question: What is the output of
+    x = [1, 2, 3]
+    x.append(4)
+    print(len(x))
+Answer: 4
+why: because append adds the new element to the whole list as a element. hence, it increases the original length by 1 as we are adding 1 new element
+
+
+[Example 2]
+Topic: Functions | Difficulty: Medium
+Question: what is printed?
+    def f(a, L=[]):
+        L.append(a)
+        return L
+    print(f(1))
+    print(f(2))
+    print(f(3))
+Answer: [1]
+        [1,2]
+        [1,2,3]
+why: because default list is shared between calls.
+
+[EXAMPLE 3]
+Topic: Strings | Difficulty: Hard
+Question: What will this print and why?
+   s = "hello"
+   print(s[::-1].upper())
+Answer: OLLEH
+Why: because s[::-1] reverses the string, then upper() capitalizes.

@@ -1,0 +1,15 @@
+[Example 1]
+Question: What is the output of print ("".join(sorted(set("abaac"))))?
+Hint: Think: set removes duplicates, sorted orders characters, join combines them
+
+[Example 2]
+Question: What is the output of:
+    x = [1,2,3]
+    print(x * 2)
+Hint: Think: what happens when you multiply a list in python? Does it do element-wise or not?
+
+[Example 3]
+Question: What does d.get("z", 99) return if z is not in d?
+Hint: Consider the second argument of dict.get().
+
+---
