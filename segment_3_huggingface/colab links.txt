@@ -1,0 +1,12 @@
+pipeline: https://colab.research.google.com/drive/1svtIgtPeWivj1PjuTVOlkbgkilQpqHGx?usp=sharing
+
+
+Meeting assistant notebook: https://colab.research.google.com/drive/11RvOOCI_v3_HqXNEW-V2udq3CCGeFE0-?usp=sharing
+
+
+Meeting assistant UI: https://colab.research.google.com/drive/1PLcJSEr3Z90M2fJ_WON-J3cwFYxOu1Mj?usp=sharing
+
+
+Tokenization: https://colab.research.google.com/drive/196A5KqyhjJ7EYqOcDz1va_kPrtJBQOqV?usp=sharing
+
+Models: https://colab.research.google.com/drive/1DT2C61wBm9BwB-xu-HlUNUFOJS0NmZE-?usp=sharing
